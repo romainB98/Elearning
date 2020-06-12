@@ -38,7 +38,7 @@
                 <span>Pour les intervenants</span>
             </div>
             <div class="apprenants_intervenantsSub">
-                <span>Pour les intervenants</span>
+                <span>Les meilleurs solutions</span>
             </div>
             <div class="connexion">
                 <a href="index.php?uc=home&action=connexion">Connectez-vous</a>
@@ -65,21 +65,8 @@
             at commodo vitae, bibendum id arcu. Maecenas efficitur cursus elit eu ultricies. Fusce purus mi, placerat laoreet consequat sit amet, vestibulum vel felis.
         </div>
     </div>
-    <div class="nosIntervenant">Nos intervenant</div>
-    <div class="lesMeilleursSolutionsc4d7cfdf">Les meilleurs solutions</div>
-    <div class="lesMeilleursSolutions">Les meilleurs solutions</div>
-    <div  class="groupe89">
-        <div  class="rectangle29c3572d82"></div>
-        <div class="inscrivezVous">
-            <a  href="index.php?uc=home&action=inscription">Inscrivez-vous</a>
-        </div>
-    </div>
-    <div class="groupe90">
-        <div class="rectangle293c49fc68"></div>
-        <div class="connectezVous">
-            <a href="index.php?uc=home&action=connexion">Connectez-vous</a>
-        </div>
-    </div>
+
+    
     <div class="groupe95">
         <div class="rectangle298503802a"></div>
         <div class="jeMabonnebc176a00">Je m'abonne</div>
