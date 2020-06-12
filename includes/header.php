@@ -3,7 +3,7 @@
   <head>
     <!-- Site Title-->
     <title>
-        EEMI E-learning
+        EEMIOnline
     </title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no">
@@ -13,6 +13,7 @@
     <!-- Stylesheets-->
 
     <link href="includes/css/style.css" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
 
 
   </head>
