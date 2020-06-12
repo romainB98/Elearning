@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="038be061-692b-4b60-bea2-85b1eb28035a" name="pokedex" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="40d58d25-3202-45b7-a942-b8861f1d0727" name="wampPokedex" url="http://localhost/pokedex/public/index.php">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
